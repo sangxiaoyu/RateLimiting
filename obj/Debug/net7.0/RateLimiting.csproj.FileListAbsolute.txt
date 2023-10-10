@@ -1,0 +1,12 @@
+F:\SourceCode\RateLimiting\obj\Debug\net7.0\RateLimiting.csproj.AssemblyReference.cache
+F:\SourceCode\RateLimiting\obj\Debug\net7.0\RateLimiting.GeneratedMSBuildEditorConfig.editorconfig
+F:\SourceCode\RateLimiting\obj\Debug\net7.0\RateLimiting.AssemblyInfoInputs.cache
+F:\SourceCode\RateLimiting\obj\Debug\net7.0\RateLimiting.AssemblyInfo.cs
+F:\SourceCode\RateLimiting\obj\Debug\net7.0\RateLimiting.csproj.CoreCompileInputs.cache
+F:\SourceCode\RateLimiting\bin\Debug\net7.0\RateLimiting.deps.json
+F:\SourceCode\RateLimiting\bin\Debug\net7.0\RateLimiting.dll
+F:\SourceCode\RateLimiting\bin\Debug\net7.0\RateLimiting.pdb
+F:\SourceCode\RateLimiting\obj\Debug\net7.0\RateLimiting.dll
+F:\SourceCode\RateLimiting\obj\Debug\net7.0\refint\RateLimiting.dll
+F:\SourceCode\RateLimiting\obj\Debug\net7.0\RateLimiting.pdb
+F:\SourceCode\RateLimiting\obj\Debug\net7.0\ref\RateLimiting.dll
